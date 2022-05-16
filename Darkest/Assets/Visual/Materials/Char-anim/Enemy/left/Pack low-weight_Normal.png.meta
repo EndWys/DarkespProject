@@ -1,0 +1,1567 @@
+fileFormatVersion: 2
+guid: bf6ea01b991803d42865128261d45d92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8316391810320985691
+    second: Pack low-weight_Normal_0
+  - first:
+      213: -1088731637531828611
+    second: Pack low-weight_Normal_1
+  - first:
+      213: 4683536737927016403
+    second: Pack low-weight_Normal_2
+  - first:
+      213: 7422095538784716476
+    second: Pack low-weight_Normal_3
+  - first:
+      213: -2797985401210328250
+    second: Pack low-weight_Normal_4
+  - first:
+      213: -5446326657546661419
+    second: Pack low-weight_Normal_5
+  - first:
+      213: -261595143106789419
+    second: Pack low-weight_Normal_6
+  - first:
+      213: -6851339710416123183
+    second: Pack low-weight_Normal_7
+  - first:
+      213: -3143874615128741503
+    second: Pack low-weight_Normal_8
+  - first:
+      213: -1124085732137661895
+    second: Pack low-weight_Normal_9
+  - first:
+      213: 692287541876406607
+    second: Pack low-weight_Normal_10
+  - first:
+      213: -5938124109715683164
+    second: Pack low-weight_Normal_11
+  - first:
+      213: -1182602990728496432
+    second: Pack low-weight_Normal_12
+  - first:
+      213: 7355029931552405154
+    second: Pack low-weight_Normal_13
+  - first:
+      213: -7398888799751720967
+    second: Pack low-weight_Normal_14
+  - first:
+      213: 4953925349483727969
+    second: Pack low-weight_Normal_15
+  - first:
+      213: -2153953146684890509
+    second: Pack low-weight_Normal_16
+  - first:
+      213: -3985809278029613419
+    second: Pack low-weight_Normal_17
+  - first:
+      213: 1766538744400609141
+    second: Pack low-weight_Normal_18
+  - first:
+      213: -2482915250104119799
+    second: Pack low-weight_Normal_19
+  - first:
+      213: -8900973972948659955
+    second: Pack low-weight_Normal_20
+  - first:
+      213: -9046995740441078539
+    second: Pack low-weight_Normal_21
+  - first:
+      213: 2203364510715462328
+    second: Pack low-weight_Normal_22
+  - first:
+      213: -5989299220689217492
+    second: Pack low-weight_Normal_23
+  - first:
+      213: -1547206604298168035
+    second: Pack low-weight_Normal_24
+  - first:
+      213: 2992068984074802523
+    second: Pack low-weight_Normal_25
+  - first:
+      213: -6195368917464571112
+    second: Pack low-weight_Normal_26
+  - first:
+      213: 321635232578250839
+    second: Pack low-weight_Normal_27
+  - first:
+      213: -8922228085314220267
+    second: Pack low-weight_Normal_28
+  - first:
+      213: 1121557598564413067
+    second: Pack low-weight_Normal_29
+  - first:
+      213: 4554590838624172956
+    second: Pack low-weight_Normal_30
+  - first:
+      213: -2939760303166033202
+    second: Pack low-weight_Normal_31
+  - first:
+      213: 106493530840356797
+    second: Pack low-weight_Normal_32
+  - first:
+      213: -61276161893243071
+    second: Pack low-weight_Normal_33
+  - first:
+      213: -8204874869867206869
+    second: Pack low-weight_Normal_34
+  - first:
+      213: 509404137031671126
+    second: Pack low-weight_Normal_35
+  - first:
+      213: -4878740529752695499
+    second: Pack low-weight_Normal_36
+  - first:
+      213: -3483240915260253132
+    second: Pack low-weight_Normal_37
+  - first:
+      213: 5687887569166634392
+    second: Pack low-weight_Normal_38
+  - first:
+      213: 1252078182731791120
+    second: Pack low-weight_Normal_39
+  - first:
+      213: -6275644220047179036
+    second: Pack low-weight_Normal_40
+  - first:
+      213: -1397974065215418955
+    second: Pack low-weight_Normal_41
+  - first:
+      213: 1284302229569382433
+    second: Pack low-weight_Normal_42
+  - first:
+      213: -2663049826751438961
+    second: Pack low-weight_Normal_43
+  - first:
+      213: -8005523093915870860
+    second: Pack low-weight_Normal_44
+  - first:
+      213: -8627883640065543451
+    second: Pack low-weight_Normal_45
+  - first:
+      213: -1748714343729861136
+    second: Pack low-weight_Normal_46
+  - first:
+      213: -3684032846174109531
+    second: Pack low-weight_Normal_47
+  - first:
+      213: 6230957145985329966
+    second: Pack low-weight_Normal_48
+  - first:
+      213: -5131477589429939649
+    second: Pack low-weight_Normal_49
+  - first:
+      213: 7786122617361594795
+    second: Pack low-weight_Normal_50
+  - first:
+      213: -5240631288246210163
+    second: Pack low-weight_Normal_51
+  - first:
+      213: 103222607149494056
+    second: Pack low-weight_Normal_52
+  - first:
+      213: -8747673911342609954
+    second: Pack low-weight_Normal_53
+  - first:
+      213: -4510605334895600715
+    second: Pack low-weight_Normal_54
+  - first:
+      213: -4350439719950355111
+    second: Pack low-weight_Normal_55
+  - first:
+      213: -4453606647905387137
+    second: Pack low-weight_Normal_56
+  - first:
+      213: 2432331674501644600
+    second: Pack low-weight_Normal_57
+  - first:
+      213: 5274451045172900250
+    second: Pack low-weight_Normal_58
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 1
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 393
+        width: 23
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a199dce5bd369c80800000000000000
+      internalID: -8316391810320985691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 392
+        width: 24
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e9f21185c04e0f0800000000000000
+      internalID: -1088731637531828611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 394
+        width: 32
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfa1a449d34ff040800000000000000
+      internalID: 4683536737927016403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 392
+        width: 27
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6464e8194900760800000000000000
+      internalID: 7422095538784716476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 392
+        width: 26
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b212a1a1f8b29d0800000000000000
+      internalID: -2797985401210328250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_5
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 394
+        width: 29
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1d036c2c2ca64b0800000000000000
+      internalID: -5446326657546661419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_6
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 392
+        width: 25
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dff6247a90ae5cf0800000000000000
+      internalID: -261595143106789419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 392
+        width: 25
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da8e1555d62be0a0800000000000000
+      internalID: -6851339710416123183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_8
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 394
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18922eac1b6be54d0800000000000000
+      internalID: -3143874615128741503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_9
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 397
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a89d67bf17660f0800000000000000
+      internalID: -1124085732137661895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49b8f7f9df7b9900800000000000000
+      internalID: 692287541876406607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_11
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 406
+        width: 105
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8c630759b879da0800000000000000
+      internalID: -5938124109715683164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_12
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 405
+        width: 105
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da305b78dc869fe0800000000000000
+      internalID: -1182602990728496432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_13
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 403
+        width: 120
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6fb8e01c0521660800000000000000
+      internalID: 7355029931552405154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 258
+        width: 26
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffae2e66ddd15990800000000000000
+      internalID: -7398888799751720967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 259
+        width: 33
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cc7cbbbd0efb440800000000000000
+      internalID: 4953925349483727969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 259
+        width: 42
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3722305760f9b12e0800000000000000
+      internalID: -2153953146684890509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_17
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 258
+        width: 48
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596b690549f8fa8c0800000000000000
+      internalID: -3985809278029613419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 258
+        width: 34
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f76f5e0a1048810800000000000000
+      internalID: 1766538744400609141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_19
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 258
+        width: 49
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ec42e2cb9ea8dd0800000000000000
+      internalID: -2482915250104119799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_20
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 258
+        width: 49
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01d56bb453697480800000000000000
+      internalID: -8900973972948659955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_21
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 258
+        width: 25
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4998e9e4d927280800000000000000
+      internalID: -9046995740441078539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_22
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 259
+        width: 32
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2c5eb395ce39e10800000000000000
+      internalID: 2203364510715462328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_23
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 259
+        width: 40
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c289b49671cb1eca0800000000000000
+      internalID: -5989299220689217492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_24
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 258
+        width: 43
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d195ba47ac7378ae0800000000000000
+      internalID: -1547206604298168035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_25
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 260
+        width: 30
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b551e3b63e6f58920800000000000000
+      internalID: 2992068984074802523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_26
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 260
+        width: 32
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81327064bc0a50aa0800000000000000
+      internalID: -6195368917464571112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_27
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 256
+        width: 31
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758a3193a8da67400800000000000000
+      internalID: 321635232578250839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 137
+        width: 40
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f05d114d0ed2480800000000000000
+      internalID: -8922228085314220267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 136
+        width: 43
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e629191b2909f00800000000000000
+      internalID: 1121557598564413067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 136
+        width: 44
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b31798c38253f30800000000000000
+      internalID: 4554590838624172956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_31
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 136
+        width: 30
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec27efc649fd337d0800000000000000
+      internalID: -2939760303166033202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_32
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 136
+        width: 33
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7dd945d475a7100800000000000000
+      internalID: 106493530840356797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_33
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 136
+        width: 42
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1476729c7ad462ff0800000000000000
+      internalID: -61276161893243071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_34
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 136
+        width: 48
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b272903f6cd622e80800000000000000
+      internalID: -8204874869867206869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_35
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 136
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d13ea1d54c11700800000000000000
+      internalID: 509404137031671126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_36
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 136
+        width: 47
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d1acc365b3b4cb0800000000000000
+      internalID: -4878740529752695499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_37
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 136
+        width: 37
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c5ec2b7da09afc0800000000000000
+      internalID: -3483240915260253132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_38
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 136
+        width: 32
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d8982cb9f6fee40800000000000000
+      internalID: 5687887569166634392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_39
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 135
+        width: 39
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bbeb03976406110800000000000000
+      internalID: 1252078182731791120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_40
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 136
+        width: 37
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2ca57e4de68e8a0800000000000000
+      internalID: -6275644220047179036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_41
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 136
+        width: 43
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd40a59ef5699ce0800000000000000
+      internalID: -1397974065215418955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_42
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 137
+        width: 52
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128a9b1c212c2d110800000000000000
+      internalID: 1284302229569382433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_43
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 136
+        width: 43
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f9051ca42fa0bd0800000000000000
+      internalID: -2663049826751438961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_44
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 136
+        width: 37
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47955f1492ba6e090800000000000000
+      internalID: -8005523093915870860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_45
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 135
+        width: 32
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e23d76ba89934880800000000000000
+      internalID: -8627883640065543451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_46
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 16
+        width: 40
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fde958c1915bb7e0800000000000000
+      internalID: -1748714343729861136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_47
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 15
+        width: 75
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0cbee25afafdcc0800000000000000
+      internalID: -3684032846174109531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_48
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 13
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b2321e28ec87650800000000000000
+      internalID: 6230957145985329966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_49
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 15
+        width: 116
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f329625f15459c8b0800000000000000
+      internalID: -5131477589429939649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_50
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 14
+        width: 118
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9f871944ddd0c60800000000000000
+      internalID: 7786122617361594795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_51
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 14
+        width: 32
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8179410c998547b0800000000000000
+      internalID: -5240631288246210163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_52
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 13
+        width: 39
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f6fef0a68be6100800000000000000
+      internalID: 103222607149494056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_53
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 14
+        width: 38
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9c87fbce40a9680800000000000000
+      internalID: -8747673911342609954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_54
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 14
+        width: 41
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbd09b985c1761c0800000000000000
+      internalID: -4510605334895600715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_55
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 15
+        width: 46
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955fb93df1220a3c0800000000000000
+      internalID: -4350439719950355111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_56
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 14
+        width: 33
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7df746995c9132c0800000000000000
+      internalID: -4453606647905387137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_57
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 14
+        width: 35
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8310a9a55c061c120800000000000000
+      internalID: 2432331674501644600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight_Normal_58
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 13
+        width: 34
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91f7b4c74d923940800000000000000
+      internalID: 5274451045172900250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

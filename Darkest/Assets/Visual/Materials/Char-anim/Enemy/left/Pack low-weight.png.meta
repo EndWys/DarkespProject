@@ -1,0 +1,2471 @@
+fileFormatVersion: 2
+guid: 6819cbc66de54da4499f491f080bfb1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2398266198791373370
+    second: Stay_1
+  - first:
+      213: -483417857496266004
+    second: Stay_2
+  - first:
+      213: -5008898821420098756
+    second: Walck_1
+  - first:
+      213: 8158366083192017122
+    second: Walck_2
+  - first:
+      213: -7389882017543343629
+    second: Walck_3
+  - first:
+      213: 7867735900869550747
+    second: Walck_4
+  - first:
+      213: -332969640070447376
+    second: Walck_5
+  - first:
+      213: 5195480821237300255
+    second: Walck_6
+  - first:
+      213: 5898556795689247925
+    second: FallFront_1
+  - first:
+      213: 8333138189983197331
+    second: FallFront_2
+  - first:
+      213: -6430778646633802199
+    second: FallFront_3
+  - first:
+      213: -5704840804456693888
+    second: FallFront_4
+  - first:
+      213: 2946242965165703770
+    second: FallFront_5
+  - first:
+      213: -2861635139585558379
+    second: FallFront_6
+  - first:
+      213: -5295071772523129117
+    second: Skill4_Death_1
+  - first:
+      213: 5835470242858964897
+    second: Skill4_Death_2
+  - first:
+      213: -7509118043503073563
+    second: Skill4_Death_3
+  - first:
+      213: -5452619139879523172
+    second: Skill4_Death_4
+  - first:
+      213: 6626014551203165093
+    second: Skill4_Death_5
+  - first:
+      213: 6908946564364142498
+    second: Skill4_Death_6
+  - first:
+      213: -5542820800314183671
+    second: Skill4_Death_7
+  - first:
+      213: -6464790568880231907
+    second: Skill4_Death_8
+  - first:
+      213: -7034673530817814792
+    second: Skill4_Death_9
+  - first:
+      213: -2620355810763233420
+    second: Skill4_Death_10
+  - first:
+      213: 610635250452930946
+    second: Skill4_Death_11
+  - first:
+      213: 4545421751666947927
+    second: Skill4_Death_12
+  - first:
+      213: 5629110625810833651
+    second: Attack_1
+  - first:
+      213: 4262536948728301276
+    second: Attack_2
+  - first:
+      213: -3116705354870567852
+    second: Attack_3
+  - first:
+      213: -924521511299164147
+    second: Attack_4
+  - first:
+      213: 1971880035320544624
+    second: Attack_5
+  - first:
+      213: 4257840911520843345
+    second: Attack_6
+  - first:
+      213: 2848968917342468811
+    second: Attack_7
+  - first:
+      213: -3701831461560679670
+    second: Attack_8
+  - first:
+      213: -1337148040656375270
+    second: DeathRop_1
+  - first:
+      213: 7684958545522104822
+    second: DeathRop_2
+  - first:
+      213: 1315366442741774633
+    second: DeathRop_3
+  - first:
+      213: 143781901294492862
+    second: DeathRop_4
+  - first:
+      213: 7290915997745762569
+    second: DeathRop_5
+  - first:
+      213: -2669602122872894936
+    second: DeathRop_6
+  - first:
+      213: 1540967364704886869
+    second: DeathRop_7
+  - first:
+      213: -1709485210683541428
+    second: DeathDager_1
+  - first:
+      213: 7423586112430621844
+    second: DeathDager_2
+  - first:
+      213: 5613105187794971223
+    second: DeathDager_3
+  - first:
+      213: 8490446663718268160
+    second: DeathDager_4
+  - first:
+      213: -7054132916334596725
+    second: DeathDager_5
+  - first:
+      213: -8401918655628598857
+    second: DeathDager_6
+  - first:
+      213: -7604082633754211154
+    second: DeathDager_7
+  - first:
+      213: -6433592449438871221
+    second: DeathDager_8
+  - first:
+      213: -1298744374984144230
+    second: DeathDager_9
+  - first:
+      213: -6457721274239228438
+    second: Contr-Attack_1
+  - first:
+      213: -7891520004322108260
+    second: Contr-Attack_2
+  - first:
+      213: 4539504606819561765
+    second: Contr-Attack_3
+  - first:
+      213: 5550623236574715608
+    second: Contr-Attack_4
+  - first:
+      213: 592018109236173677
+    second: Contr-Attack_5
+  - first:
+      213: -2196804818419047030
+    second: Contr-Attack_6
+  - first:
+      213: -8390325064747803975
+    second: Contr-Attack_7
+  - first:
+      213: 8180463445105748589
+    second: Contr-Attack_8
+  - first:
+      213: 2203383423247826503
+    second: Contr-Attack_9
+  - first:
+      213: -3577624065552092140
+    second: Stay_1
+  - first:
+      213: 5524268521828345688
+    second: Stay_2
+  - first:
+      213: 7759814624621207215
+    second: Walck_1
+  - first:
+      213: -2330656413732433962
+    second: Walck_2
+  - first:
+      213: 7895138012419363964
+    second: Walck_3
+  - first:
+      213: -7232261177271156293
+    second: Walck_4
+  - first:
+      213: 8566941072925726423
+    second: Walck_5
+  - first:
+      213: 1141249068150705347
+    second: Walck_6
+  - first:
+      213: 3536473927913241930
+    second: FallFront_1
+  - first:
+      213: -1033018740664214331
+    second: FallFront_2
+  - first:
+      213: -9213003266740853047
+    second: FallFront_3
+  - first:
+      213: -5343860549151163585
+    second: FallFront_4
+  - first:
+      213: -4113636279402479359
+    second: FallFront_5
+  - first:
+      213: 7906549114588331621
+    second: FallFront_6
+  - first:
+      213: 8154796619365127499
+    second: Skill4_Death_1
+  - first:
+      213: -3037541010028876161
+    second: Skill4_Death_2
+  - first:
+      213: -6866087209480037281
+    second: Skill4_Death_3
+  - first:
+      213: 3693604761638062120
+    second: Skill4_Death_4
+  - first:
+      213: -697246460899276429
+    second: Skill4_Death_5
+  - first:
+      213: 1775229996186672814
+    second: Skill4_Death_6
+  - first:
+      213: 7848036382993835208
+    second: Skill4_Death_7
+  - first:
+      213: -2421693524215699962
+    second: Skill4_Death_8
+  - first:
+      213: -2418370686426320838
+    second: Skill4_Death_9
+  - first:
+      213: 3311439983968318701
+    second: Skill4_Death_10
+  - first:
+      213: 4892505069096042076
+    second: Skill4_Death_11
+  - first:
+      213: 5562504837930059655
+    second: Skill4_Death_12
+  - first:
+      213: 6436359783321678059
+    second: Attack_1
+  - first:
+      213: -4567638378606982667
+    second: Attack_2
+  - first:
+      213: -594531736918998694
+    second: Attack_3
+  - first:
+      213: -1916740233989386502
+    second: Attack_4
+  - first:
+      213: 8100840240613173139
+    second: Attack_5
+  - first:
+      213: -258685468687539729
+    second: Attack_6
+  - first:
+      213: 8696637687260767999
+    second: Attack_7
+  - first:
+      213: -6338687957764436748
+    second: Attack_8
+  - first:
+      213: -1781512459463658223
+    second: DeathRop_1
+  - first:
+      213: 819679429170906325
+    second: DeathRop_2
+  - first:
+      213: -2035237632519479845
+    second: DeathRop_3
+  - first:
+      213: 1335838965799256132
+    second: DeathRop_4
+  - first:
+      213: 3549138823975255163
+    second: DeathRop_5
+  - first:
+      213: 885943057186050059
+    second: DeathRop_6
+  - first:
+      213: 356667270294255865
+    second: DeathRop_7
+  - first:
+      213: -8204850711340962667
+    second: DeathDager_1
+  - first:
+      213: -2793496273845049285
+    second: DeathDager_2
+  - first:
+      213: 8987944689013497864
+    second: DeathDager_3
+  - first:
+      213: -3861466078152051941
+    second: DeathDager_4
+  - first:
+      213: 6666537709442155555
+    second: DeathDager_5
+  - first:
+      213: -9029240141910228831
+    second: DeathDager_6
+  - first:
+      213: -2863575540166359719
+    second: DeathDager_7
+  - first:
+      213: -6486126189435336410
+    second: DeathDager_8
+  - first:
+      213: -7765659054848973038
+    second: DeathDager_9
+  - first:
+      213: -328709899700310367
+    second: Contr-Attack_1
+  - first:
+      213: -8457324637004093009
+    second: Contr-Attack_2
+  - first:
+      213: 4232478374061067081
+    second: Contr-Attack_3
+  - first:
+      213: 7330232746326297071
+    second: Contr-Attack_4
+  - first:
+      213: 1831316275835383331
+    second: Contr-Attack_5
+  - first:
+      213: -2234188402335817979
+    second: Contr-Attack_6
+  - first:
+      213: -3740311644687826138
+    second: Contr-Attack_7
+  - first:
+      213: -5769229256467598320
+    second: Contr-Attack_8
+  - first:
+      213: -4825086151263316715
+    second: Contr-Attack_9
+  - first:
+      213: -7067171307835041152
+    second: Contr-Attack_10
+  - first:
+      213: 6432501426816786616
+    second: Contr-Attack_10
+  - first:
+      213: 7548384830086523229
+    second: Contr-Attack_11
+  - first:
+      213: -812392046320848849
+    second: Contr-Attack_12
+  - first:
+      213: -7354260125009721390
+    second: Contr-Attack_13
+  - first:
+      213: -5362980808556575509
+    second: Contr-Attack_14
+  - first:
+      213: 6775975138110518817
+    second: Contr-Attack_15
+  - first:
+      213: 2305108010314773717
+    second: Contr-Attack_16
+  - first:
+      213: 8986073183189659749
+    second: Contr-Attack_17
+  - first:
+      213: -6546526044841681019
+    second: Contr-Attack_18
+  - first:
+      213: -7359942281723260580
+    second: Pack low-weight_68
+  - first:
+      213: 119515001231651973
+    second: FallBack_1
+  - first:
+      213: 903604846354010212
+    second: FallBack_2
+  - first:
+      213: -7166138699200695885
+    second: FallBack_3
+  - first:
+      213: 1549244550217661506
+    second: FallBack_4
+  - first:
+      213: 3168128639794002091
+    second: FallBack_5
+  - first:
+      213: 3052977181650964141
+    second: SwordDeath_1
+  - first:
+      213: -1916843007909879731
+    second: SwordDeath_2
+  - first:
+      213: 3291294592134311020
+    second: SwordDeath_3
+  - first:
+      213: -639850351870778413
+    second: SwordDeath_4
+  - first:
+      213: 3578521953977972778
+    second: SwordDeath_5
+  - first:
+      213: -6722106634931461669
+    second: SwordDeath_6
+  - first:
+      213: 2575012220447098390
+    second: SwordDeath_7
+  - first:
+      213: 2386722629081973135
+    second: SwordDeath_8
+  - first:
+      213: 14180441068822117
+    second: SwordDeath_9
+  - first:
+      213: 8078023492485513062
+    second: SwordDeath_10
+  - first:
+      213: -1761703092670201157
+    second: SwordDeath_11
+  - first:
+      213: -6435888577316792241
+    second: SwordDeath_12
+  - first:
+      213: -6574307704138202331
+    second: Pack low-weight_86
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FallFront_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 392
+        width: 106
+        height: 96
+      alignment: 9
+      pivot: {x: 0.7843991, y: 0.5186917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bfe9eb42bc6d5b0800000000000000
+      internalID: -5704840804456693888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallFront_5
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 391
+        width: 107
+        height: 97
+      alignment: 9
+      pivot: {x: 0.79851097, y: 0.52219886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1014e0f499d69e6c0800000000000000
+      internalID: 2946242965165703770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallFront_6
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 390
+        width: 120
+        height: 98
+      alignment: 9
+      pivot: {x: 0.8200053, y: 0.4999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e773e6784b9bd60800000000000000
+      internalID: -2861635139585558379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill4_Death_1
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 378
+        width: 66
+        height: 107
+      alignment: 9
+      pivot: {x: 0.80882126, y: 0.4924536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4590d0c158ab2170800000000000000
+      internalID: -5295071772523129117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill4_Death_2
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 378
+        width: 49
+        height: 107
+      alignment: 9
+      pivot: {x: 0.71897423, y: 0.4823925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e2c828b8c78d5d0800000000000000
+      internalID: 5835470242858964897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill4_Death_3
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 378
+        width: 46
+        height: 107
+      alignment: 9
+      pivot: {x: 0.41604215, y: 0.47736195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cd612af02c6b0a0800000000000000
+      internalID: -7509118043503073563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill4_Death_4
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 379
+        width: 49
+        height: 107
+      alignment: 9
+      pivot: {x: 0.66546756, y: 0.47909632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828c02e06f1524330800000000000000
+      internalID: -5452619139879523172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill4_Death_5
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 378
+        width: 40
+        height: 107
+      alignment: 9
+      pivot: {x: 0.7092468, y: 0.49079767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3794339b902e256f0800000000000000
+      internalID: 6626014551203165093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill4_Death_6
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 378
+        width: 54
+        height: 108
+      alignment: 9
+      pivot: {x: 0.82630754, y: 0.49697903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae1355a642e2a810800000000000000
+      internalID: 6908946564364142498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill4_Death_7
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 379
+        width: 46
+        height: 107
+      alignment: 9
+      pivot: {x: 0.68583614, y: 0.46385834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c460b87283d9ec60800000000000000
+      internalID: -5542820800314183671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill4_Death_8
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 379
+        width: 53
+        height: 105
+      alignment: 9
+      pivot: {x: 0.7167324, y: 0.47221678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6066246029a646ed0800000000000000
+      internalID: -6464790568880231907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill4_Death_9
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 378
+        width: 49
+        height: 106
+      alignment: 9
+      pivot: {x: 0.6711675, y: 0.45871836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30775c7ca8307ed0800000000000000
+      internalID: -7034673530817814792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill4_Death_10
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 377
+        width: 74
+        height: 107
+      alignment: 9
+      pivot: {x: 0.3229865, y: 0.47959772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4f473ee1994fd20800000000000000
+      internalID: -2620355810763233420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill4_Death_11
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 376
+        width: 101
+        height: 108
+      alignment: 9
+      pivot: {x: 0.24600793, y: 0.49242005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e7441507ba5e340800000000000000
+      internalID: 610635250452930946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill4_Death_12
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 369
+        width: 112
+        height: 114
+      alignment: 9
+      pivot: {x: 0.22680664, y: 0.45696914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787863ebdacf13d40800000000000000
+      internalID: 4545421751666947927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 232
+        width: 63
+        height: 109
+      alignment: 9
+      pivot: {x: 0.8237956, y: 0.4967696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0bf732f1b825950800000000000000
+      internalID: 5629110625810833651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 233
+        width: 77
+        height: 108
+      alignment: 9
+      pivot: {x: 0.79814386, y: 0.4829952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f980b4581d7c90c0800000000000000
+      internalID: 4262536948728301276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 233
+        width: 77
+        height: 108
+      alignment: 9
+      pivot: {x: 0.8720455, y: 0.49263197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a514f35098ccfb7f0800000000000000
+      internalID: -3116705354870567852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 232
+        width: 52
+        height: 143
+      alignment: 9
+      pivot: {x: 0.77991545, y: 0.36331496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe0d5a99ee5665e0800000000000000
+      internalID: -924521511299164147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_5
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 232
+        width: 56
+        height: 124
+      alignment: 9
+      pivot: {x: 0.51602775, y: 0.41938215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39720fb5747fb6070800000000000000
+      internalID: 1971880035320544624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_6
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 232
+        width: 48
+        height: 140
+      alignment: 9
+      pivot: {x: 0.8163484, y: 0.3660965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1e252dfe6f86cf0800000000000000
+      internalID: 4257840911520843345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_7
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 236
+        width: 74
+        height: 107
+      alignment: 9
+      pivot: {x: 0.86252576, y: 0.43671167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6e37956e9a0b870800000000000000
+      internalID: 2848968917342468811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_8
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 235
+        width: 83
+        height: 107
+      alignment: 9
+      pivot: {x: 0.8823654, y: 0.4568892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc876fd2e47808a0800000000000000
+      internalID: -3701831461560679670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathRop_1
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 241
+        width: 50
+        height: 108
+      alignment: 9
+      pivot: {x: 0.79891235, y: 0.49829158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1157cb26bdbc647e0800000000000000
+      internalID: -1337148040656375270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathRop_2
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 242
+        width: 69
+        height: 107
+      alignment: 9
+      pivot: {x: 0.7963832, y: 0.49615222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d44d651916106b00800000000000000
+      internalID: 7684958545522104822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathRop_3
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 242
+        width: 65
+        height: 107
+      alignment: 9
+      pivot: {x: 0.8519062, y: 0.47944456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd5b28082261c3e0800000000000000
+      internalID: 1315366442741774633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathRop_4
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 238
+        width: 83
+        height: 109
+      alignment: 9
+      pivot: {x: 0.86015743, y: 0.4922533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4400799367ad98210800000000000000
+      internalID: 143781901294492862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathRop_5
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 243
+        width: 28
+        height: 104
+      alignment: 9
+      pivot: {x: 0.7763323, y: 0.4853997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cb79dc4f2114130800000000000000
+      internalID: 7290915997745762569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathRop_6
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 243
+        width: 33
+        height: 104
+      alignment: 9
+      pivot: {x: 0.70059854, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b005cce34808b4c00800000000000000
+      internalID: -2669602122872894936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathRop_7
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 241
+        width: 31
+        height: 110
+      alignment: 9
+      pivot: {x: 0.7659282, y: 0.5115298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8b5ec1ef223f400800000000000000
+      internalID: 1540967364704886869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathDager_1
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 244
+        width: 60
+        height: 107
+      alignment: 9
+      pivot: {x: 0.76392007, y: 0.49551535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c296bcfb3822e80800000000000000
+      internalID: -1709485210683541428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathDager_2
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 244
+        width: 59
+        height: 107
+      alignment: 9
+      pivot: {x: 0.83345884, y: 0.49402055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38a61480f18b39d0800000000000000
+      internalID: 7423586112430621844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathDager_3
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 243
+        width: 62
+        height: 106
+      alignment: 9
+      pivot: {x: 0.83494717, y: 0.47663447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800228113189bbc70800000000000000
+      internalID: 5613105187794971223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathDager_4
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 245
+        width: 50
+        height: 104
+      alignment: 9
+      pivot: {x: 0.8567676, y: 0.48194504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13b6839f01596ac0800000000000000
+      internalID: 8490446663718268160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathDager_5
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 243
+        width: 48
+        height: 106
+      alignment: 9
+      pivot: {x: 0.6577225, y: 0.50669575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324cb05d9bc448c50800000000000000
+      internalID: -7054132916334596725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathDager_6
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 246
+        width: 50
+        height: 103
+      alignment: 9
+      pivot: {x: 0.74005616, y: 0.49147344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a04ebd0ee1b1b280800000000000000
+      internalID: -8401918655628598857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathDager_7
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 245
+        width: 58
+        height: 104
+      alignment: 9
+      pivot: {x: 0.762468, y: 0.50281495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95503e4d7398248d0800000000000000
+      internalID: -7604082633754211154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathDager_8
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 244
+        width: 86
+        height: 103
+      alignment: 9
+      pivot: {x: 0.8404087, y: 0.5000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629495e7896acf5a0800000000000000
+      internalID: -6433592449438871221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathDager_9
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 244
+        width: 113
+        height: 102
+      alignment: 9
+      pivot: {x: 0.8057062, y: 0.5000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2176eecdb36da3490800000000000000
+      internalID: -1298744374984144230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contr-Attack_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 61
+        height: 107
+      alignment: 9
+      pivot: {x: 0.8398071, y: 0.4912607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae653a7610307bf0800000000000000
+      internalID: -6457721274239228438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contr-Attack_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 112
+        width: 48
+        height: 132
+      alignment: 9
+      pivot: {x: 0.78630906, y: 0.39302745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9263d2d0c81aa80800000000000000
+      internalID: -7891520004322108260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contr-Attack_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 123
+        width: 60
+        height: 106
+      alignment: 9
+      pivot: {x: 0.84281594, y: 0.48213714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bce6518a8ccba30800000000000000
+      internalID: 4539504606819561765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contr-Attack_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 123
+        width: 44
+        height: 106
+      alignment: 9
+      pivot: {x: 0.77131516, y: 0.4909501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe907b578d73ab560800000000000000
+      internalID: 5550623236574715608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contr-Attack_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 123
+        width: 37
+        height: 106
+      alignment: 9
+      pivot: {x: 0.6463623, y: 0.48999283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e2f8c33742a6910800000000000000
+      internalID: 592018109236173677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contr-Attack_6
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 123
+        width: 49
+        height: 106
+      alignment: 9
+      pivot: {x: 0.43785125, y: 0.49027628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fd97d3c719ef0e0800000000000000
+      internalID: -2196804818419047030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contr-Attack_7
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 123
+        width: 73
+        height: 106
+      alignment: 9
+      pivot: {x: 0.32953465, y: 0.4955155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623002d406eb71cc0800000000000000
+      internalID: -8390325064747803975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contr-Attack_8
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 123
+        width: 90
+        height: 106
+      alignment: 9
+      pivot: {x: 0.29997966, y: 0.48195562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0143574de849fefa0800000000000000
+      internalID: 8180463445105748589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contr-Attack_9
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 123
+        width: 71
+        height: 106
+      alignment: 9
+      pivot: {x: 0.3348999, y: 0.4899757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5151b47b5b9d90db0800000000000000
+      internalID: 2203383423247826503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 379
+        width: 29
+        height: 109
+      alignment: 9
+      pivot: {x: 0.56318796, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3249c7b66a584120800000000000000
+      internalID: 2398266198791373370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stay_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 378
+        width: 32
+        height: 109
+      alignment: 9
+      pivot: {x: 0.6695528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceacad5150e8a49f0800000000000000
+      internalID: -483417857496266004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walck_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 381
+        width: 39
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5782553, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bd1696f01dc7ab0800000000000000
+      internalID: -5008898821420098756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walck_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 378
+        width: 32
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e051405ab6583170800000000000000
+      internalID: 8158366083192017122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walck_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 378
+        width: 34
+        height: 108
+      alignment: 9
+      pivot: {x: 0.6795259, y: 0.4968601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f13844557dd17990800000000000000
+      internalID: -7389882017543343629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walck_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 381
+        width: 50
+        height: 106
+      alignment: 9
+      pivot: {x: 0.7916284, y: 0.4808053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92eae5ed10df2d60800000000000000
+      internalID: 7867735900869550747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walck_5
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 378
+        width: 35
+        height: 109
+      alignment: 9
+      pivot: {x: 0.59688634, y: 0.49066693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe7c9260ed016bf0800000000000000
+      internalID: -332969640070447376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walck_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 378
+        width: 34
+        height: 109
+      alignment: 9
+      pivot: {x: 0.6595773, y: 0.49066693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c3433b74e0a1840800000000000000
+      internalID: 5195480821237300255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallFront_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 381
+        width: 72
+        height: 107
+      alignment: 9
+      pivot: {x: 0.63956577, y: 0.48993775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4268e5722ebd150800000000000000
+      internalID: 5898556795689247925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallFront_2
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 384
+        width: 81
+        height: 104
+      alignment: 9
+      pivot: {x: 0.7392563, y: 0.5034508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398a03e680145a370800000000000000
+      internalID: 8333138189983197331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallFront_3
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 383
+        width: 98
+        height: 105
+      alignment: 9
+      pivot: {x: 0.7600079, y: 0.5444333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926993284e841c6a0800000000000000
+      internalID: -6430778646633802199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contr-Attack_10
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 123
+        width: 47
+        height: 108
+      alignment: 9
+      pivot: {x: 0.42239314, y: 0.4980579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0ab9287f5d44950800000000000000
+      internalID: -7067171307835041152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contr-Attack_11
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 123
+        width: 42
+        height: 106
+      alignment: 9
+      pivot: {x: 0.6146516, y: 0.4889869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d592149820041c860800000000000000
+      internalID: 7548384830086523229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contr-Attack_12
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 121
+        width: 56
+        height: 108
+      alignment: 9
+      pivot: {x: 0.8718763, y: 0.5100167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2071b4fcbdc9b4f0800000000000000
+      internalID: -812392046320848849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contr-Attack_13
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 123
+        width: 59
+        height: 106
+      alignment: 9
+      pivot: {x: 0.8270698, y: 0.44442734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7c9fe716b60f990800000000000000
+      internalID: -7354260125009721390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contr-Attack_14
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 123
+        width: 72
+        height: 113
+      alignment: 9
+      pivot: {x: 0.77821517, y: 0.43848276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be48fb07e5dd295b0800000000000000
+      internalID: -5362980808556575509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contr-Attack_15
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 124
+        width: 69
+        height: 107
+      alignment: 9
+      pivot: {x: 0.6705021, y: 0.44791862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126b4f9cc79190e50800000000000000
+      internalID: 6775975138110518817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contr-Attack_16
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 123
+        width: 44
+        height: 108
+      alignment: 9
+      pivot: {x: 0.33955243, y: 0.45118642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d438bbb5836dff10800000000000000
+      internalID: 2305108010314773717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contr-Attack_17
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 123
+        width: 38
+        height: 106
+      alignment: 9
+      pivot: {x: 0.31451416, y: 0.46643844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560fea923f1f4bc70800000000000000
+      internalID: 8986073183189659749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contr-Attack_18
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 121
+        width: 51
+        height: 108
+      alignment: 9
+      pivot: {x: 0.15861721, y: 0.5111176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f5e584f311625a0800000000000000
+      internalID: -6546526044841681019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallBack_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2
+        width: 43
+        height: 107
+      alignment: 9
+      pivot: {x: 0.68401444, y: 0.4969188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5843eb9a24a98a100800000000000000
+      internalID: 119515001231651973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallBack_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2
+        width: 78
+        height: 110
+      alignment: 9
+      pivot: {x: 0.32405344, y: 0.47976837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460904cf1df3a8c00800000000000000
+      internalID: 903604846354010212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallBack_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 105
+        height: 107
+      alignment: 9
+      pivot: {x: 0.24565923, y: 0.48960057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b176f622d2cc8c90800000000000000
+      internalID: -7166138699200695885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallBack_4
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1
+        width: 118
+        height: 106
+      alignment: 9
+      pivot: {x: 0.2296727, y: 0.49650085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cfeedc5b5008510800000000000000
+      internalID: 1549244550217661506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallBack_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1
+        width: 120
+        height: 99
+      alignment: 9
+      pivot: {x: 0.22618891, y: 0.48501348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8b9a1663477fb20800000000000000
+      internalID: 3168128639794002091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordDeath_1
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 0
+        width: 39
+        height: 107
+      alignment: 9
+      pivot: {x: 0.74654603, y: 0.49213678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daecda3429a5e5a20800000000000000
+      internalID: 3052977181650964141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordDeath_2
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 0
+        width: 55
+        height: 106
+      alignment: 9
+      pivot: {x: 0.83808595, y: 0.5044978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40275fa0710665e0800000000000000
+      internalID: -1916843007909879731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordDeath_3
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 0
+        width: 67
+        height: 106
+      alignment: 9
+      pivot: {x: 0.85000837, y: 0.49290922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c64575ef60dad20800000000000000
+      internalID: 3291294592134311020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordDeath_4
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 0
+        width: 57
+        height: 109
+      alignment: 9
+      pivot: {x: 0.7637704, y: 0.47036925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3655bbe7bce17f0800000000000000
+      internalID: -639850351870778413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordDeath_5
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1
+        width: 54
+        height: 108
+      alignment: 9
+      pivot: {x: 0.73507464, y: 0.4608206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a283bcfd1c679a130800000000000000
+      internalID: 3578521953977972778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordDeath_6
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 0
+        width: 34
+        height: 109
+      alignment: 9
+      pivot: {x: 0.45104623, y: 0.4626721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd12d9a71a746b2a0800000000000000
+      internalID: -6722106634931461669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordDeath_7
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 36
+        height: 106
+      alignment: 9
+      pivot: {x: 0.3007914, y: 0.48849916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6160a04b8f74cb320800000000000000
+      internalID: 2575012220447098390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordDeath_8
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1
+        width: 41
+        height: 108
+      alignment: 9
+      pivot: {x: 0.2297929, y: 0.51008946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8141d3f5975f1120800000000000000
+      internalID: 2386722629081973135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordDeath_9
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1
+        width: 42
+        height: 108
+      alignment: 9
+      pivot: {x: 0.21173967, y: 0.5043116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e5aa83901623000800000000000000
+      internalID: 14180441068822117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordDeath_10
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 0
+        width: 59
+        height: 107
+      alignment: 9
+      pivot: {x: 0.36259434, y: 0.49842414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ffbd43197ea1070800000000000000
+      internalID: 8078023492485513062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordDeath_11
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2
+        width: 90
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5923191, y: 0.50818545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb28fa10f5c2d87e0800000000000000
+      internalID: -1761703092670201157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordDeath_12
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1
+        width: 109
+        height: 106
+      alignment: 9
+      pivot: {x: 0.6729557, y: 0.50480676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48d90f00712fa6a0800000000000000
+      internalID: -6435888577316792241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: bf6ea01b991803d42865128261d45d92, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      SwordDeath_8: 2386722629081973135
+      Attack_5: 1971880035320544624
+      FallBack_3: -7166138699200695885
+      DeathDager_1: -1709485210683541428
+      DeathRop_4: 143781901294492862
+      DeathRop_2: 7684958545522104822
+      Skill4_Death_10: -2620355810763233420
+      DeathDager_7: -7604082633754211154
+      FallFront_2: 8333138189983197331
+      DeathDager_9: -1298744374984144230
+      Contr-Attack_10: -7067171307835041152
+      Skill4_Death_11: 610635250452930946
+      SwordDeath_6: -6722106634931461669
+      Contr-Attack_15: 6775975138110518817
+      Stay_1: 2398266198791373370
+      SwordDeath_11: -1761703092670201157
+      SwordDeath_10: 8078023492485513062
+      Skill4_Death_6: 6908946564364142498
+      DeathRop_1: -1337148040656375270
+      Contr-Attack_3: 4539504606819561765
+      Attack_8: -3701831461560679670
+      Contr-Attack_14: -5362980808556575509
+      Attack_4: -924521511299164147
+      Contr-Attack_5: 592018109236173677
+      Stay_2: -483417857496266004
+      Contr-Attack_17: 8986073183189659749
+      FallBack_2: 903604846354010212
+      Skill4_Death_9: -7034673530817814792
+      Contr-Attack_12: -812392046320848849
+      Attack_2: 4262536948728301276
+      FallBack_5: 3168128639794002091
+      FallFront_5: 2946242965165703770
+      Contr-Attack_11: 7548384830086523229
+      SwordDeath_1: 3052977181650964141
+      Skill4_Death_3: -7509118043503073563
+      SwordDeath_9: 14180441068822117
+      Walck_3: -7389882017543343629
+      SwordDeath_4: -639850351870778413
+      DeathDager_8: -6433592449438871221
+      DeathRop_5: 7290915997745762569
+      Walck_1: -5008898821420098756
+      Contr-Attack_16: 2305108010314773717
+      Skill4_Death_4: -5452619139879523172
+      Skill4_Death_2: 5835470242858964897
+      FallBack_1: 119515001231651973
+      FallFront_3: -6430778646633802199
+      SwordDeath_5: 3578521953977972778
+      Contr-Attack_4: 5550623236574715608
+      Skill4_Death_1: -5295071772523129117
+      DeathDager_4: 8490446663718268160
+      FallFront_1: 5898556795689247925
+      Contr-Attack_9: 2203383423247826503
+      Contr-Attack_8: 8180463445105748589
+      DeathDager_6: -8401918655628598857
+      Contr-Attack_1: -6457721274239228438
+      Contr-Attack_7: -8390325064747803975
+      Skill4_Death_8: -6464790568880231907
+      Contr-Attack_2: -7891520004322108260
+      Contr-Attack_18: -6546526044841681019
+      DeathRop_6: -2669602122872894936
+      Attack_7: 2848968917342468811
+      Skill4_Death_12: 4545421751666947927
+      Skill4_Death_7: -5542820800314183671
+      DeathDager_3: 5613105187794971223
+      Walck_4: 7867735900869550747
+      DeathRop_3: 1315366442741774633
+      DeathRop_7: 1540967364704886869
+      Walck_5: -332969640070447376
+      DeathDager_5: -7054132916334596725
+      Contr-Attack_6: -2196804818419047030
+      SwordDeath_2: -1916843007909879731
+      Walck_2: 8158366083192017122
+      FallFront_4: -5704840804456693888
+      SwordDeath_3: 3291294592134311020
+      SwordDeath_12: -6435888577316792241
+      DeathDager_2: 7423586112430621844
+      Skill4_Death_5: 6626014551203165093
+      Contr-Attack_13: -7354260125009721390
+      Walck_6: 5195480821237300255
+      FallBack_4: 1549244550217661506
+      FallFront_6: -2861635139585558379
+      Attack_1: 5629110625810833651
+      Attack_3: -3116705354870567852
+      Attack_6: 4257840911520843345
+      SwordDeath_7: 2575012220447098390
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

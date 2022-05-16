@@ -1,0 +1,2291 @@
+fileFormatVersion: 2
+guid: b3856469a6d34d94fad3ba184c016973
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9082626104069381411
+    second: Pack low-weight with sword Right_0
+  - first:
+      213: -776810678042330031
+    second: Pack low-weight with sword Right_1
+  - first:
+      213: -2602048037672413855
+    second: Pack low-weight with sword Right_2
+  - first:
+      213: -8540933566608001629
+    second: Pack low-weight with sword Right_3
+  - first:
+      213: 1785907117229527969
+    second: Pack low-weight with sword Right_4
+  - first:
+      213: -1210372448056588897
+    second: Pack low-weight with sword Right_5
+  - first:
+      213: -9020053125676178512
+    second: Pack low-weight with sword Right_6
+  - first:
+      213: -6141754266572654138
+    second: Pack low-weight with sword Right_7
+  - first:
+      213: 5442055400495233747
+    second: Pack low-weight with sword Right_8
+  - first:
+      213: -8385629389413212913
+    second: Pack low-weight with sword Right_9
+  - first:
+      213: -1625802056119823235
+    second: Pack low-weight with sword Right_10
+  - first:
+      213: -2920712708395708013
+    second: Pack low-weight with sword Right_11
+  - first:
+      213: 4261572330972925033
+    second: Pack low-weight with sword Right_12
+  - first:
+      213: -1410722812105627591
+    second: Pack low-weight with sword Right_13
+  - first:
+      213: 6971004486041647522
+    second: Pack low-weight with sword Right_14
+  - first:
+      213: 6669186422062304036
+    second: Pack low-weight with sword Right_15
+  - first:
+      213: 9035808129506817133
+    second: Pack low-weight with sword Right_16
+  - first:
+      213: 7940172790810587411
+    second: Pack low-weight with sword Right_17
+  - first:
+      213: -5308430935841131414
+    second: Walck_6
+  - first:
+      213: 9186550917320158120
+    second: Walck_5
+  - first:
+      213: 4642581070143220338
+    second: Walck_4
+  - first:
+      213: 8263182314510349020
+    second: Walck_3
+  - first:
+      213: 2489355430649064567
+    second: Walck_2
+  - first:
+      213: -3579481161065380946
+    second: Walck_1
+  - first:
+      213: 7778559391392091041
+    second: Pack low-weight with sword Right_24
+  - first:
+      213: -8958145345809174972
+    second: Pack low-weight with sword Right_25
+  - first:
+      213: -951109277403311493
+    second: Pack low-weight with sword Right_26
+  - first:
+      213: -7452967119583999023
+    second: Pack low-weight with sword Right_27
+  - first:
+      213: -3359458483378665131
+    second: Pack low-weight with sword Right_28
+  - first:
+      213: 2678078519784599593
+    second: Pack low-weight with sword Right_29
+  - first:
+      213: -5222838208438378890
+    second: Pack low-weight with sword Right_30
+  - first:
+      213: 7862983577606981548
+    second: Pack low-weight with sword Right_31
+  - first:
+      213: 2597217810678182093
+    second: Pack low-weight with sword Right_32
+  - first:
+      213: -1141355600782175082
+    second: Pack low-weight with sword Right_33
+  - first:
+      213: -7253574203880928870
+    second: Pack low-weight with sword Right_34
+  - first:
+      213: 4244608552325631148
+    second: Pack low-weight with sword Right_35
+  - first:
+      213: -3334869851991284924
+    second: Pack low-weight with sword Right_36
+  - first:
+      213: -7028193144700157388
+    second: Pack low-weight with sword Right_37
+  - first:
+      213: 3304345200181068710
+    second: Pack low-weight with sword Right_38
+  - first:
+      213: 1859848607472451983
+    second: Pack low-weight with sword Right_39
+  - first:
+      213: 3666146740029318583
+    second: Pack low-weight with sword Right_40
+  - first:
+      213: -2695822468592151452
+    second: Pack low-weight with sword Right_41
+  - first:
+      213: 1224815784890117372
+    second: Attack_8
+  - first:
+      213: -3814968959788191938
+    second: Attack_7
+  - first:
+      213: 7249696527520058520
+    second: Attack_6
+  - first:
+      213: -5256764152490508478
+    second: Attack_5
+  - first:
+      213: 4179185905241377360
+    second: Attack_4
+  - first:
+      213: -1485603437537117494
+    second: Attack_3
+  - first:
+      213: 2079895495389922269
+    second: Attack_2
+  - first:
+      213: -8127682547214669676
+    second: Attack_1
+  - first:
+      213: -4682030626099224586
+    second: Pack low-weight with sword Right_50
+  - first:
+      213: -524585395963238011
+    second: ContrAttack_18
+  - first:
+      213: 472967959340764833
+    second: ContrAttack_17
+  - first:
+      213: 1639436002651698811
+    second: ContrAttack_16
+  - first:
+      213: 1418001250258510843
+    second: ContrAttack_15
+  - first:
+      213: 8686047446016398309
+    second: ContrAttack_14
+  - first:
+      213: 2404923947267761964
+    second: ContrAttack_13
+  - first:
+      213: 5399629257885237263
+    second: ContrAttack_12
+  - first:
+      213: 9086312799803062484
+    second: ContrAttack_11
+  - first:
+      213: -7806428456244459155
+    second: ContrAttack_10
+  - first:
+      213: 4101388391119898631
+    second: ContrAttack_9
+  - first:
+      213: -1546195007379376810
+    second: ContrAttack_8
+  - first:
+      213: 449123762130088522
+    second: ContrAttack_7
+  - first:
+      213: 8642766666112054143
+    second: ContrAttack_6
+  - first:
+      213: 1820011311372909736
+    second: ContrAttack_5
+  - first:
+      213: 3179339606441730734
+    second: ContrAttack_4
+  - first:
+      213: 3950204721525410886
+    second: ContrAttack_3
+  - first:
+      213: -4298482469540993683
+    second: ContrAttack_2
+  - first:
+      213: 914662812534114240
+    second: ContrAttack_1
+  - first:
+      213: 996998405941793478
+    second: Pack low-weight with sword Right_69
+  - first:
+      213: 4979304242880675429
+    second: Pack low-weight with sword Right_70
+  - first:
+      213: 3900406649618852369
+    second: Pack low-weight with sword Right_71
+  - first:
+      213: 1245961742397077665
+    second: Pack low-weight with sword Right_72
+  - first:
+      213: -4165418079126701204
+    second: Pack low-weight with sword Right_73
+  - first:
+      213: 1825176630655400043
+    second: Pack low-weight with sword Right_74
+  - first:
+      213: -8586202881313601918
+    second: Pack low-weight with sword Right_75
+  - first:
+      213: 4298346803282004768
+    second: Pack low-weight with sword Right_76
+  - first:
+      213: 4802108661825386235
+    second: Pack low-weight with sword Right_77
+  - first:
+      213: -678713379560636035
+    second: Pack low-weight with sword Right_78
+  - first:
+      213: -306196193844255726
+    second: Pack low-weight with sword Right_79
+  - first:
+      213: -2978778064696959356
+    second: Pack low-weight with sword Right_80
+  - first:
+      213: -5709091382984269878
+    second: Pack low-weight with sword Right_81
+  - first:
+      213: 4697354607106459658
+    second: Pack low-weight with sword Right_82
+  - first:
+      213: -3467033952923065130
+    second: Pack low-weight with sword Right_83
+  - first:
+      213: -3109450058222944779
+    second: Pack low-weight with sword Right_84
+  - first:
+      213: 3895850521880478819
+    second: Pack low-weight with sword Right_85
+  - first:
+      213: -8927787510622760667
+    second: Pack low-weight with sword Right_86
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 369
+        width: 112
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2214f1ea704f180800000000000000
+      internalID: -9082626104069381411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 376
+        width: 101
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c7e85ddc63835f0800000000000000
+      internalID: -776810678042330031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 377
+        width: 74
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1659802981ba3ebd0800000000000000
+      internalID: -2602048037672413855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 378
+        width: 49
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5be184c22887980800000000000000
+      internalID: -8540933566608001629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_4
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 379
+        width: 53
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3de4c9f01d8c810800000000000000
+      internalID: 1785907117229527969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 379
+        width: 46
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95caabdba4e33fe0800000000000000
+      internalID: -1210372448056588897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 378
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b36be4f87552d280800000000000000
+      internalID: -9020053125676178512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_7
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 378
+        width: 40
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c97233f80b14caa0800000000000000
+      internalID: -6141754266572654138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_8
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 379
+        width: 49
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dab382bd80168b40800000000000000
+      internalID: 5442055400495233747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_9
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 378
+        width: 46
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d13f1df7240ab80800000000000000
+      internalID: -8385629389413212913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_10
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 378
+        width: 49
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74d0e1d4adff69e0800000000000000
+      internalID: -1625802056119823235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_11
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 378
+        width: 66
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391da1d244b8777d0800000000000000
+      internalID: -2920712708395708013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_12
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 390
+        width: 120
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c464cc475242b30800000000000000
+      internalID: 4261572330972925033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_13
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 391
+        width: 107
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93867e3a31b1c6ce0800000000000000
+      internalID: -1410722812105627591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_14
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 392
+        width: 106
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9ba2665abfdb060800000000000000
+      internalID: 6971004486041647522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_15
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 383
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bc1eb47b5bd8c50800000000000000
+      internalID: 6669186422062304036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_16
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 384
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6437d9be93a56d70800000000000000
+      internalID: 9035808129506817133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_17
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 381
+        width: 72
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311bc7b9519213e60800000000000000
+      internalID: 7940172790810587411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walck_6
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 378
+        width: 34
+        height: 109
+      alignment: 9
+      pivot: {x: 0.3897059, y: 0.5120413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64be7a603aa456b0800000000000000
+      internalID: -5308430935841131414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walck_5
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 378
+        width: 35
+        height: 109
+      alignment: 9
+      pivot: {x: 0.3757638, y: 0.51158214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab28e9036f2d7f70800000000000000
+      internalID: 9186550917320158120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walck_4
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 381
+        width: 50
+        height: 106
+      alignment: 9
+      pivot: {x: 0.21946289, y: 0.50132346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ae6d6c2e2cd6040800000000000000
+      internalID: 4642581070143220338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walck_3
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 378
+        width: 34
+        height: 108
+      alignment: 9
+      pivot: {x: 0.31847787, y: 0.5064943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2fdaae888bca270800000000000000
+      internalID: 8263182314510349020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walck_2
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 378
+        width: 32
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ce6833397fb8220800000000000000
+      internalID: 2489355430649064567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walck_1
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 381
+        width: 39
+        height: 106
+      alignment: 9
+      pivot: {x: 0.46762946, y: 0.49073735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3ce7259d0235ec0800000000000000
+      internalID: -3579481161065380946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_24
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 378
+        width: 32
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab443ccd8ef2fb60800000000000000
+      internalID: 7778559391392091041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_25
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 379
+        width: 29
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ea9b035464ea380800000000000000
+      internalID: -8958145345809174972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 244
+        width: 113
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b721cc1c62bfcc2f0800000000000000
+      internalID: -951109277403311493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_27
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 244
+        width: 86
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db878a64edb19890800000000000000
+      internalID: -7452967119583999023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_28
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 245
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559ca8cfe4ec061d0800000000000000
+      internalID: -3359458483378665131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_29
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 246
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9207d5489327a2520800000000000000
+      internalID: 2678078519784599593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_30
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 243
+        width: 48
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e51ba3250c487b0800000000000000
+      internalID: -5222838208438378890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_31
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 245
+        width: 50
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca78ef967edee1d60800000000000000
+      internalID: 7862983577606981548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_32
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 243
+        width: 62
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc07ac196db2b0420800000000000000
+      internalID: 2597217810678182093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_33
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 244
+        width: 59
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694d9f4d0271920f0800000000000000
+      internalID: -1141355600782175082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_34
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 244
+        width: 60
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a998db151b0265b90800000000000000
+      internalID: -7253574203880928870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_35
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 241
+        width: 31
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac44fb4df0e7ea30800000000000000
+      internalID: 4244608552325631148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_36
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 243
+        width: 33
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44366ebd98928b1d0800000000000000
+      internalID: -3334869851991284924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_37
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 243
+        width: 28
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432cf456297d67e90800000000000000
+      internalID: -7028193144700157388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_38
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 238
+        width: 83
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a34f00d3746bdd20800000000000000
+      internalID: 3304345200181068710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_39
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 242
+        width: 65
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81866064728fc910800000000000000
+      internalID: 1859848607472451983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_40
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 242
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b567e53905c0e230800000000000000
+      internalID: 3666146740029318583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_41
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 241
+        width: 50
+        height: 108
+      alignment: 9
+      pivot: {x: 0.17403808, y: 0.48373243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4645c067fb3869ad0800000000000000
+      internalID: -2695822468592151452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_8
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 235
+        width: 83
+        height: 107
+      alignment: 9
+      pivot: {x: 0.13169622, y: 0.46033627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcaaad877b6ff010800000000000000
+      internalID: 1224815784890117372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_7
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 236
+        width: 74
+        height: 107
+      alignment: 9
+      pivot: {x: 0.13749076, y: 0.45226482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3feea291f18e0bc0800000000000000
+      internalID: -3814968959788191938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_6
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 232
+        width: 48
+        height: 140
+      alignment: 9
+      pivot: {x: 0.16846721, y: 0.3700943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c473cc4981c9460800000000000000
+      internalID: 7249696527520058520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_5
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 232
+        width: 56
+        height: 124
+      alignment: 9
+      pivot: {x: 0.47969928, y: 0.4119991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fbbc6dad83c07b0800000000000000
+      internalID: -5256764152490508478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_4
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 232
+        width: 52
+        height: 143
+      alignment: 9
+      pivot: {x: 0.20271419, y: 0.36169115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a4b3440737ff930800000000000000
+      internalID: 4179185905241377360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_3
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 233
+        width: 77
+        height: 108
+      alignment: 9
+      pivot: {x: 0.12209092, y: 0.4957897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca308c6b83126be0800000000000000
+      internalID: -1485603437537117494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 233
+        width: 77
+        height: 108
+      alignment: 9
+      pivot: {x: 0.19885412, y: 0.49368483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3c6aceee54ddc10800000000000000
+      internalID: 2079895495389922269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 232
+        width: 63
+        height: 109
+      alignment: 9
+      pivot: {x: 0.14636424, y: 0.49374276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498a02e19cba43f80800000000000000
+      internalID: -8127682547214669676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ContrAttack_18
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 121
+        width: 51
+        height: 108
+      alignment: 9
+      pivot: {x: 0.83944523, y: 0.5223191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589e04b9c5c48b8f0800000000000000
+      internalID: -524585395963238011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ContrAttack_17
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 123
+        width: 38
+        height: 106
+      alignment: 9
+      pivot: {x: 0.6903012, y: 0.48139393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aec5a66ad1509600800000000000000
+      internalID: 472967959340764833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ContrAttack_16
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 123
+        width: 44
+        height: 108
+      alignment: 9
+      pivot: {x: 0.6494085, y: 0.4634771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b767a0abb5270c610800000000000000
+      internalID: 1639436002651698811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ContrAttack_15
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 124
+        width: 69
+        height: 107
+      alignment: 9
+      pivot: {x: 0.2999179, y: 0.46927977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3e7bccf90cda310800000000000000
+      internalID: 1418001250258510843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ContrAttack_14
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 123
+        width: 72
+        height: 113
+      alignment: 9
+      pivot: {x: 0.23441145, y: 0.43995395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e31ff9a12a0b8870800000000000000
+      internalID: 8686047446016398309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ContrAttack_13
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 123
+        width: 59
+        height: 106
+      alignment: 9
+      pivot: {x: 0.18784966, y: 0.48475948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27a9b49691006120800000000000000
+      internalID: 2404923947267761964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ContrAttack_12
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 121
+        width: 56
+        height: 108
+      alignment: 9
+      pivot: {x: 0.15958731, y: 0.511967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f004e0b93365fea40800000000000000
+      internalID: 5399629257885237263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ContrAttack_11
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 123
+        width: 42
+        height: 106
+      alignment: 9
+      pivot: {x: 0.36922202, y: 0.496952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8b85e9951191e70800000000000000
+      internalID: 9086312799803062484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ContrAttack_10
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 123
+        width: 47
+        height: 108
+      alignment: 9
+      pivot: {x: 0.57562643, y: 0.5000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d694c05edaef9a390800000000000000
+      internalID: -7806428456244459155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ContrAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 123
+        width: 71
+        height: 106
+      alignment: 9
+      pivot: {x: 0.6911329, y: 0.48171133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708cc9af20f0be830800000000000000
+      internalID: 4101388391119898631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ContrAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 123
+        width: 90
+        height: 106
+      alignment: 9
+      pivot: {x: 0.7261746, y: 0.49085566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6557ba735dfca8ae0800000000000000
+      internalID: -1546195007379376810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ContrAttack_7
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 123
+        width: 73
+        height: 106
+      alignment: 9
+      pivot: {x: 0.7013826, y: 0.49711075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4273fd9eab9b3600800000000000000
+      internalID: 449123762130088522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ContrAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 123
+        width: 49
+        height: 106
+      alignment: 9
+      pivot: {x: 0.55973226, y: 0.4944779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f733232dd7641f770800000000000000
+      internalID: 8642766666112054143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ContrAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 123
+        width: 37
+        height: 106
+      alignment: 9
+      pivot: {x: 0.40110326, y: 0.48673305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac339515aaf14910800000000000000
+      internalID: 1820011311372909736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ContrAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 123
+        width: 44
+        height: 106
+      alignment: 9
+      pivot: {x: 0.26054242, y: 0.481593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea22a46f6884f1c20800000000000000
+      internalID: 3179339606441730734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ContrAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 123
+        width: 60
+        height: 106
+      alignment: 9
+      pivot: {x: 0.17155965, y: 0.4852744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cc790e342f1d630800000000000000
+      internalID: 3950204721525410886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ContrAttack_2
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 112
+        width: 48
+        height: 132
+      alignment: 9
+      pivot: {x: 0.22971089, y: 0.39366254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65e3c1e7f8b854c0800000000000000
+      internalID: -4298482469540993683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ContrAttack_1
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 124
+        width: 61
+        height: 107
+      alignment: 9
+      pivot: {x: 0.14437516, y: 0.48807418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c70b5e5bf881bc00800000000000000
+      internalID: 914662812534114240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_69
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1
+        width: 109
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c29ac394cc06dd00800000000000000
+      internalID: 996998405941793478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_71
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a6a1ebe27012630800000000000000
+      internalID: 3900406649618852369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_72
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 59
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8fd437a9b8a4110800000000000000
+      internalID: 1245961742397077665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_73
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1
+        width: 42
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bb9ac83567136c0800000000000000
+      internalID: -4165418079126701204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_74
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1
+        width: 41
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b683f82b974545910800000000000000
+      internalID: 1825176630655400043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_75
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 0
+        width: 36
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2860ed998fda7d880800000000000000
+      internalID: -8586202881313601918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_76
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 0
+        width: 34
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b4f0bd4abc6ab30800000000000000
+      internalID: 4298346803282004768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_77
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6bde0a26484a240800000000000000
+      internalID: 4802108661825386235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_78
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 0
+        width: 57
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71cbfaf6c9b496f0800000000000000
+      internalID: -678713379560636035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_79
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 0
+        width: 67
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214265a1f2c20cbf0800000000000000
+      internalID: -306196193844255726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_80
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 0
+        width: 55
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e1305e12149a6d0800000000000000
+      internalID: -2978778064696959356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_81
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 0
+        width: 39
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf9afe92ab35c0b0800000000000000
+      internalID: -5709091382984269878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_82
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1
+        width: 120
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0800a4a02b503140800000000000000
+      internalID: 4697354607106459658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_83
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1
+        width: 118
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d46dcb2dfe92efc0800000000000000
+      internalID: -3467033952923065130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_84
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 0
+        width: 105
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdbdc885a309d4d0800000000000000
+      internalID: -3109450058222944779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_85
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 2
+        width: 78
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364c4b69867d01630800000000000000
+      internalID: 3895850521880478819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack low-weight with sword Right_86
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 2
+        width: 43
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521592f7f802a1480800000000000000
+      internalID: -8927787510622760667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 734a935218548ac46af2e6c00b0bbd1e, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      Pack low-weight with sword Right_37: -7028193144700157388
+      Pack low-weight with sword Right_80: -2978778064696959356
+      Attack_5: -5256764152490508478
+      Pack low-weight with sword Right_4: 1785907117229527969
+      Pack low-weight with sword Right_79: -306196193844255726
+      Pack low-weight with sword Right_84: -3109450058222944779
+      ContrAttack_8: -1546195007379376810
+      Pack low-weight with sword Right_26: -951109277403311493
+      Pack low-weight with sword Right_33: -1141355600782175082
+      Pack low-weight with sword Right_72: 1245961742397077665
+      ContrAttack_10: -7806428456244459155
+      ContrAttack_16: 1639436002651698811
+      Pack low-weight with sword Right_31: 7862983577606981548
+      Pack low-weight with sword Right_13: -1410722812105627591
+      Pack low-weight with sword Right_6: -9020053125676178512
+      ContrAttack_6: 8642766666112054143
+      Pack low-weight with sword Right_71: 3900406649618852369
+      ContrAttack_13: 2404923947267761964
+      Pack low-weight with sword Right_69: 996998405941793478
+      Pack low-weight with sword Right_75: -8586202881313601918
+      Pack low-weight with sword Right_39: 1859848607472451983
+      Pack low-weight with sword Right_76: 4298346803282004768
+      Pack low-weight with sword Right_82: 4697354607106459658
+      Pack low-weight with sword Right_0: -9082626104069381411
+      Attack_8: 1224815784890117372
+      Attack_4: 4179185905241377360
+      Pack low-weight with sword Right_12: 4261572330972925033
+      Pack low-weight with sword Right_27: -7452967119583999023
+      ContrAttack_14: 8686047446016398309
+      Pack low-weight with sword Right_7: -6141754266572654138
+      Pack low-weight with sword Right_11: -2920712708395708013
+      Attack_2: 2079895495389922269
+      Pack low-weight with sword Right_77: 4802108661825386235
+      Pack low-weight with sword Right_85: 3895850521880478819
+      Pack low-weight with sword Right_86: -8927787510622760667
+      Pack low-weight with sword Right_73: -4165418079126701204
+      Pack low-weight with sword Right_41: -2695822468592151452
+      ContrAttack_3: 3950204721525410886
+      ContrAttack_18: -524585395963238011
+      Pack low-weight with sword Right_10: -1625802056119823235
+      Walck_3: 8263182314510349020
+      Pack low-weight with sword Right_83: -3467033952923065130
+      ContrAttack_17: 472967959340764833
+      Pack low-weight with sword Right_16: 9035808129506817133
+      Walck_1: -3579481161065380946
+      Pack low-weight with sword Right_5: -1210372448056588897
+      Pack low-weight with sword Right_36: -3334869851991284924
+      Pack low-weight with sword Right_78: -678713379560636035
+      ContrAttack_1: 914662812534114240
+      ContrAttack_12: 5399629257885237263
+      Pack low-weight with sword Right_25: -8958145345809174972
+      Pack low-weight with sword Right_3: -8540933566608001629
+      Pack low-weight with sword Right_81: -5709091382984269878
+      Pack low-weight with sword Right_8: 5442055400495233747
+      Pack low-weight with sword Right_29: 2678078519784599593
+      ContrAttack_9: 4101388391119898631
+      Pack low-weight with sword Right_38: 3304345200181068710
+      Attack_7: -3814968959788191938
+      Walck_5: 9186550917320158120
+      Walck_4: 4642581070143220338
+      Walck_2: 2489355430649064567
+      Pack low-weight with sword Right_40: 3666146740029318583
+      Pack low-weight with sword Right_28: -3359458483378665131
+      Pack low-weight with sword Right_32: 2597217810678182093
+      Pack low-weight with sword Right_24: 7778559391392091041
+      Walck_6: -5308430935841131414
+      Pack low-weight with sword Right_15: 6669186422062304036
+      ContrAttack_2: -4298482469540993683
+      Pack low-weight with sword Right_1: -776810678042330031
+      Pack low-weight with sword Right_34: -7253574203880928870
+      Pack low-weight with sword Right_35: 4244608552325631148
+      Pack low-weight with sword Right_2: -2602048037672413855
+      ContrAttack_11: 9086312799803062484
+      Attack_1: -8127682547214669676
+      Pack low-weight with sword Right_9: -8385629389413212913
+      Pack low-weight with sword Right_14: 6971004486041647522
+      Pack low-weight with sword Right_30: -5222838208438378890
+      ContrAttack_4: 3179339606441730734
+      Pack low-weight with sword Right_17: 7940172790810587411
+      ContrAttack_7: 449123762130088522
+      ContrAttack_5: 1820011311372909736
+      Attack_6: 7249696527520058520
+      Pack low-weight with sword Right_74: 1825176630655400043
+      ContrAttack_15: 1418001250258510843
+      Attack_3: -1485603437537117494
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

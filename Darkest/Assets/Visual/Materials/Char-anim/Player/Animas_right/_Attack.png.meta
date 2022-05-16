@@ -1,0 +1,762 @@
+fileFormatVersion: 2
+guid: 6193375ff9ac2174981060b93b440be8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3117775995601270193
+    second: Attack-Dagger_5
+  - first:
+      213: 8139804621348180182
+    second: Attack-Dagger_6
+  - first:
+      213: -3573696086554577925
+    second: _Attack_2
+  - first:
+      213: -6677449987691099553
+    second: Attack-Dagger_7
+  - first:
+      213: 5154163230835768328
+    second: _Attack_4
+  - first:
+      213: -10272971411969097
+    second: Attack-Dagger_8
+  - first:
+      213: 4502345775551113801
+    second: Attack-Dagger_9
+  - first:
+      213: -531332138461272362
+    second: Attack-Dagger_1
+  - first:
+      213: -6460835968925701932
+    second: Attack-Dagger_2
+  - first:
+      213: 2537324379037082693
+    second: Attack-Dagger_3
+  - first:
+      213: 4164376809036813974
+    second: Attack-Dagger_4
+  - first:
+      213: -2898767273526694467
+    second: Attack-Sword_1
+  - first:
+      213: 5322093196834337355
+    second: Attack-Sword_2
+  - first:
+      213: 5585753257285913861
+    second: _Attack_13
+  - first:
+      213: 2956767965016135319
+    second: Attack-Sword_3
+  - first:
+      213: -7860270772024539848
+    second: Attack-Sword_4
+  - first:
+      213: -8771175352243558658
+    second: Attack-Sword_5
+  - first:
+      213: 5909554202063456248
+    second: Attack-Sword_6
+  - first:
+      213: -7133414389314092397
+    second: Attack-Sword_7
+  - first:
+      213: -2409897124241359427
+    second: Attack-Sword_8
+  - first:
+      213: -52779104815366459
+    second: Attack-Sword_9
+  - first:
+      213: 8295042508941573034
+    second: Tack_1
+  - first:
+      213: -3345700414482327254
+    second: Tack_2
+  - first:
+      213: -7946915954566948256
+    second: Tack_3
+  - first:
+      213: 2495910553072037134
+    second: Tack_4
+  - first:
+      213: 3818762007856637807
+    second: Tack_5
+  - first:
+      213: 6261589374352699271
+    second: _Attack_26
+  - first:
+      213: 7921346656617231096
+    second: _Attack_27
+  - first:
+      213: 2258061565045471102
+    second: _Attack_28
+  - first:
+      213: 7037018629161703639
+    second: _Attack_29
+  - first:
+      213: -1250624996498428743
+    second: _Attack_30
+  - first:
+      213: -1468086195404008638
+    second: _Attack_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attack-Dagger_5
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 358
+        width: 91
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5bd03dfb0944b20800000000000000
+      internalID: 3117775995601270193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Dagger_6
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 360
+        width: 83
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d09a843d2566f070800000000000000
+      internalID: 8139804621348180182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Dagger_7
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 362
+        width: 76
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a4c366d9ee453a0800000000000000
+      internalID: -6677449987691099553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Dagger_8
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 357
+        width: 60
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bba33479c08bdff0800000000000000
+      internalID: -10272971411969097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Dagger_9
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 364
+        width: 78
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a64bfd0ab8b7e30800000000000000
+      internalID: 4502345775551113801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Dagger_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 356
+        width: 61
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d664453c3450a8f0800000000000000
+      internalID: -531332138461272362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Dagger_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 361
+        width: 75
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8ed10daef7656a0800000000000000
+      internalID: -6460835968925701932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Dagger_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 359
+        width: 93
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544a1745413663320800000000000000
+      internalID: 2537324379037082693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Dagger_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 358
+        width: 108
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696938dd4a6dac930800000000000000
+      internalID: 4164376809036813974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Sword_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 190
+        width: 62
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbde9e6e58285c7d0800000000000000
+      internalID: -2898767273526694467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Sword_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 190
+        width: 75
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4275da909fdbd940800000000000000
+      internalID: 5322093196834337355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Sword_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 188
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7969a0e6ccc880920800000000000000
+      internalID: 2956767965016135319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Sword_4
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 188
+        width: 72
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835871bd065bae290800000000000000
+      internalID: -7860270772024539848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Sword_5
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 187
+        width: 72
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef66cd22d76864680800000000000000
+      internalID: -8771175352243558658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Sword_6
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 188
+        width: 105
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7c8e29c34f20250800000000000000
+      internalID: 5909554202063456248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Sword_7
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 186
+        width: 75
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39206494865010d90800000000000000
+      internalID: -7133414389314092397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Sword_8
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 185
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdbb5c65535e8ed0800000000000000
+      internalID: -2409897124241359427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Sword_9
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 184
+        width: 73
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cebaed0fad744ff0800000000000000
+      internalID: -52779104815366459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tack_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 26
+        width: 56
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab3a3e7639ed1370800000000000000
+      internalID: 8295042508941573034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tack_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 26
+        width: 62
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2957e5033fa191d0800000000000000
+      internalID: -3345700414482327254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tack_3
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 27
+        width: 65
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a172c3b02e6b190800000000000000
+      internalID: -7946915954566948256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tack_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 26
+        width: 73
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0de1039c6143a220800000000000000
+      internalID: 2495910553072037134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tack_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 27
+        width: 66
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f676d0040d7fef430800000000000000
+      internalID: 3818762007856637807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: b431878ca486e4043a6082960b1badea, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      Attack-Sword_7: -7133414389314092397
+      Attack-Dagger_2: -6460835968925701932
+      Tack_3: -7946915954566948256
+      Attack-Sword_4: -7860270772024539848
+      Tack_4: 2495910553072037134
+      Attack-Sword_5: -8771175352243558658
+      Attack-Dagger_8: -10272971411969097
+      Attack-Sword_1: -2898767273526694467
+      Attack-Dagger_1: -531332138461272362
+      Attack-Sword_2: 5322093196834337355
+      Attack-Dagger_3: 2537324379037082693
+      Attack-Sword_3: 2956767965016135319
+      Attack-Dagger_9: 4502345775551113801
+      Attack-Sword_8: -2409897124241359427
+      Tack_2: -3345700414482327254
+      Tack_5: 3818762007856637807
+      Tack_1: 8295042508941573034
+      Attack-Dagger_5: 3117775995601270193
+      Attack-Dagger_7: -6677449987691099553
+      Attack-Sword_9: -52779104815366459
+      Attack-Sword_6: 5909554202063456248
+      Attack-Dagger_6: 8139804621348180182
+      Attack-Dagger_4: 4164376809036813974
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
